@@ -1,0 +1,5 @@
+{
+	"java.project.outputPath": "bin",
+	"java.project.sourcePaths": [".", "src", "src/threads", "src/slide"],
+	"java.debug.settings.onBuildFailureProceed": true
+}
