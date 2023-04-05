@@ -10,6 +10,6 @@ abstract class BoaringAbs {
     abstract void func4();
 
     void func5() {
-        System.out.println("I'm function 5");
+        System.out.println("I'm function 5..");
     }
 }
